@@ -1,7 +1,9 @@
-pandas
 numpy
+scipy
+pandas
 scikit-learn
 matplotlib
+# v1 notebooks only
 seaborn
 xgboost
 joblib
